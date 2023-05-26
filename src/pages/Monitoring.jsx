@@ -5,11 +5,11 @@ import CardMonitoring from "../components/CardMonitoring";
 
 export default function Monitoring() {
   return (
-    <div className="flex flex-col w-full">
-      <div className="w-full">
+    <div className="flex flex-col">
+      <div className="">
         <TopBar />
       </div>
-      <div className="md:container md:mx-auto ">
+      <div className="">
         <CardMonitoring />
       </div>
     </div>

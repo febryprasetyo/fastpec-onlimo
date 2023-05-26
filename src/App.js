@@ -4,10 +4,10 @@ import Monitoring from "./pages/Monitoring";
 function App() {
   return (
     <>
-      <div className="flex bg-gray-100 min-h-full">
+      <div className="bg-gray-100 h-screen w-full">
         <Monitoring />
       </div>
-      <div>footer baru test</div>
+      {/* <div>footer baru test</div> */}
     </>
   );
 }
