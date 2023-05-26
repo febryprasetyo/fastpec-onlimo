@@ -7,7 +7,7 @@ function App() {
       <div className="flex bg-gray-100 min-h-full">
         <Monitoring />
       </div>
-      <div>footer</div>
+      <div>footer baru test</div>
     </>
   );
 }
