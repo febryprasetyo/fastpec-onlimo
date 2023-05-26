@@ -1,6 +1,6 @@
 import React from "react";
 import TopBar from "../components/TopBar";
-import Liststation from "../components/ListStation";
+// import Liststation from "../components/ListStation";
 import CardMonitoring from "../components/CardMonitoring";
 
 export default function Monitoring() {
@@ -9,7 +9,7 @@ export default function Monitoring() {
       <div className="w-full">
         <TopBar />
       </div>
-      <div className="md:container md:mx-auto">
+      <div className="md:container md:mx-auto ">
         <CardMonitoring />
       </div>
     </div>
